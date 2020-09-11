@@ -10,7 +10,9 @@ body {
   padding-top: 50px;
   text-align: center;
   z-index: 1000;
-  background-image: url('');
+  background-image: url('../../assets/img/map_mock_up.png');
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .artwork .h3 {
