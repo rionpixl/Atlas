@@ -6,9 +6,11 @@ body {
   padding-top: 50px;
 }
 
-.artwork {
+.map {
   padding-top: 50px;
   text-align: center;
+  z-index: 1000;
+  background-image: url('');
 }
 
 .artwork .h3 {
@@ -52,5 +54,10 @@ body {
 
 a .links {
   color: #;
+}
+
+.artwork.object {
+  padding-top: 50px;
+  text-align: center;
 }
 
